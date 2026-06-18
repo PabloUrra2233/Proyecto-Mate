@@ -1,0 +1,22 @@
+Ramas de trabajo por compañero
+
+1. Pablo Urra
+   - Rama: feature/dijkstra-y-graph-manager
+   - Trabajo: arquitectura del grafo, modelamiento matemático, implementación de carga de datos y Dijkstra, módulos `graph_manager.py` y `shortest_path.py`
+
+2. Compañero 2
+   - Rama: feature/datos-ciudades-y-conexiones
+   - Trabajo: recopilación de ciudades, distancias y conexiones, creación del CSV `data/conexiones.csv`, validación de datos reales
+
+3. Bernardo Sandoval
+   - Rama: feature/interfaz-grafica
+   - Trabajo: desarrollo de la UI con CustomTkinter en `src/app.py`, selectores de origen/destino, botones y resultados
+
+4. Compañero 4
+   - Rama: feature/visualizacion-grafo
+   - Trabajo: visualización del grafo y la ruta óptima en `src/visualization.py`, reporte y presentación
+
+Notas:
+- Hacer commits pequeños y descriptivos.
+- Cada compañero debe crear su rama desde `Dev`.
+- Antes de mergear, validar que el código funcione y se integre con los otros módulos.

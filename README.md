@@ -6,7 +6,7 @@
 
 * Pablo Urra
 * Compañero 2
-* Compañero 3
+* Bernardo Sandoval
 * Compañero 4
 
 
